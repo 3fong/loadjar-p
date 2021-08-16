@@ -1,3 +1,5 @@
+package com.liu;
+
 import com.liu.Song;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
